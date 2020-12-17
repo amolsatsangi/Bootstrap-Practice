@@ -1,2 +1,2 @@
 # Bootstrap-Projects
-Web pages made by bootstrap
+Web pages made using bootstrap
